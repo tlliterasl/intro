@@ -1,0 +1,25 @@
+@charset "UTF-8";
+table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}
+ 
+h1#titulo { color: blue; }
+h2#subtitulo { color: blue; }
+ 
+strong { color: red; }
+span.destacado { color: orange; }
+span.especial { color: purple; }
+ 
+a { color: red; }
+a em { color: blue; }
+ 
+
+ 
+caption { color: blue; }
+td { color: green; }
+td strong { color: orange; }
+th { color: red; }
+th.especial { color: orange; }
+
+div#adicional p { color: olive; }
+div#adicional span#especial { color: fuchsia; }
+div#adicional a { color: green; }/
+
