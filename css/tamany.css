@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body { font-size: 18px;
+		text-indent: 3em; }
+h1 { font-size: 2.5em; }
+ 
+/* Las palabras de todos los párrafos deben estar separadas 4 milímetros entre si */
+p { word-spacing: 4mm; }
+ 
+/* Los enlaces se deben mostrar con un tamaño de letra de 12 puntos */
+a { font-size: 12pt }
+ 
+/* Los elementos <span> deben tener un tamaño de letra de 1 pica */
+span { font-size: 1pc }

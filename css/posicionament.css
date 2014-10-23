@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#normal{
+	width:50%;
+	text-align:center;
+}
+#relatiu p{
+	backface-visibility:green;
+	width:50%;
+	border:1px solid;
+}
+
+#relatiu .mou{
+	position:relative;
+	background:green;
+	top:10px;
+	left:10px;
+}
